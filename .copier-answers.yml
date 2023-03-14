@@ -1,0 +1,24 @@
+# Do NOT update manually; changes here will be overwritten by Copier
+_commit: v1.14.2
+_src_path: https://github.com/OCA/oca-addons-repo-template.git
+ci: GitHub
+dependency_installation_mode: PIP
+generate_requirements_txt: true
+github_check_license: false
+github_ci_extra_env: {}
+github_enable_codecov: true
+github_enable_makepot: true
+github_enable_stale_action: true
+github_enforce_dev_status_compatibility: true
+include_wkhtmltopdf: true
+odoo_version: 16.0
+org_name: Vladimir Kalmykov
+org_slug: Volodiay622
+rebel_module_groups: []
+repo_description: My solution is an Odoo tutorial
+repo_name: Odoo JS Tutorial
+repo_slug: tutorials
+repo_website: https://github.com/Volodiay622/tutorials
+travis_apt_packages: []
+travis_apt_sources: []
+

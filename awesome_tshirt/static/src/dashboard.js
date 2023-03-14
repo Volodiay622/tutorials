@@ -1,8 +1,8 @@
 /** @odoo-module **/
 
-import { registry } from "@web/core/registry";
+import {registry} from "@web/core/registry";
 
-const { Component } = owl;
+const {Component} = owl;
 
 class AwesomeDashboard extends Component {}
 
